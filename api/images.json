@@ -1,0 +1,276 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "url": "https://picsum.photos/id/10/800/600",
+      "thumbnail": "https://picsum.photos/id/10/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/10/800/600"
+    },
+    {
+      "id": 11,
+      "url": "https://picsum.photos/id/11/800/600",
+      "thumbnail": "https://picsum.photos/id/11/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/11/800/600"
+    },
+    {
+      "id": 14,
+      "url": "https://picsum.photos/id/14/800/600",
+      "thumbnail": "https://picsum.photos/id/14/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/14/800/600"
+    },
+    {
+      "id": 16,
+      "url": "https://picsum.photos/id/16/800/600",
+      "thumbnail": "https://picsum.photos/id/16/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/16/800/600"
+    },
+    {
+      "id": 18,
+      "url": "https://picsum.photos/id/18/800/600",
+      "thumbnail": "https://picsum.photos/id/18/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/18/800/600"
+    },
+    {
+      "id": 20,
+      "url": "https://picsum.photos/id/20/800/600",
+      "thumbnail": "https://picsum.photos/id/20/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/20/800/600"
+    },
+    {
+      "id": 21,
+      "url": "https://picsum.photos/id/21/800/600",
+      "thumbnail": "https://picsum.photos/id/21/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/21/800/600"
+    },
+    {
+      "id": 22,
+      "url": "https://picsum.photos/id/22/800/600",
+      "thumbnail": "https://picsum.photos/id/22/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/22/800/600"
+    },
+    {
+      "id": 23,
+      "url": "https://picsum.photos/id/23/800/600",
+      "thumbnail": "https://picsum.photos/id/23/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/23/800/600"
+    },
+    {
+      "id": 24,
+      "url": "https://picsum.photos/id/24/800/600",
+      "thumbnail": "https://picsum.photos/id/24/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/24/800/600"
+    },
+    {
+      "id": 25,
+      "url": "https://picsum.photos/id/25/800/600",
+      "thumbnail": "https://picsum.photos/id/25/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/25/800/600"
+    },
+    {
+      "id": 26,
+      "url": "https://picsum.photos/id/26/800/600",
+      "thumbnail": "https://picsum.photos/id/26/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/26/800/600"
+    },
+    {
+      "id": 27,
+      "url": "https://picsum.photos/id/27/800/600",
+      "thumbnail": "https://picsum.photos/id/27/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/27/800/600"
+    },
+    {
+      "id": 28,
+      "url": "https://picsum.photos/id/28/800/600",
+      "thumbnail": "https://picsum.photos/id/28/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/28/800/600"
+    },
+    {
+      "id": 29,
+      "url": "https://picsum.photos/id/29/800/600",
+      "thumbnail": "https://picsum.photos/id/29/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/29/800/600"
+    },
+    {
+      "id": 30,
+      "url": "https://picsum.photos/id/30/800/600",
+      "thumbnail": "https://picsum.photos/id/30/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/30/800/600"
+    },
+    {
+      "id": 31,
+      "url": "https://picsum.photos/id/31/800/600",
+      "thumbnail": "https://picsum.photos/id/31/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/31/800/600"
+    },
+    {
+      "id": 32,
+      "url": "https://picsum.photos/id/32/800/600",
+      "thumbnail": "https://picsum.photos/id/32/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/32/800/600"
+    },
+    {
+      "id": 33,
+      "url": "https://picsum.photos/id/33/800/600",
+      "thumbnail": "https://picsum.photos/id/33/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/33/800/600"
+    },
+    {
+      "id": 34,
+      "url": "https://picsum.photos/id/34/800/600",
+      "thumbnail": "https://picsum.photos/id/34/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/34/800/600"
+    },
+    {
+      "id": 35,
+      "url": "https://picsum.photos/id/35/800/600",
+      "thumbnail": "https://picsum.photos/id/35/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/35/800/600"
+    },
+    {
+      "id": 36,
+      "url": "https://picsum.photos/id/36/800/600",
+      "thumbnail": "https://picsum.photos/id/36/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/36/800/600"
+    },
+    {
+      "id": 37,
+      "url": "https://picsum.photos/id/37/800/600",
+      "thumbnail": "https://picsum.photos/id/37/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/37/800/600"
+    },
+    {
+      "id": 38,
+      "url": "https://picsum.photos/id/38/800/600",
+      "thumbnail": "https://picsum.photos/id/38/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/38/800/600"
+    },
+    {
+      "id": 39,
+      "url": "https://picsum.photos/id/39/800/600",
+      "thumbnail": "https://picsum.photos/id/39/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/39/800/600"
+    },
+    {
+      "id": 40,
+      "url": "https://picsum.photos/id/40/800/600",
+      "thumbnail": "https://picsum.photos/id/40/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/40/800/600"
+    },
+    {
+      "id": 41,
+      "url": "https://picsum.photos/id/41/800/600",
+      "thumbnail": "https://picsum.photos/id/41/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/41/800/600"
+    },
+    {
+      "id": 42,
+      "url": "https://picsum.photos/id/42/800/600",
+      "thumbnail": "https://picsum.photos/id/42/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/42/800/600"
+    },
+    {
+      "id": 43,
+      "url": "https://picsum.photos/id/43/800/600",
+      "thumbnail": "https://picsum.photos/id/43/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/43/800/600"
+    },
+    {
+      "id": 44,
+      "url": "https://picsum.photos/id/44/800/600",
+      "thumbnail": "https://picsum.photos/id/44/200/150",
+      "author": "Paul Jarvis",
+      "width": 800,
+      "height": 600,
+      "download_url": "https://picsum.photos/id/44/800/600"
+    }
+  ],
+  "total": 30,
+  "message": "Random Image Gallery API — Visit /api/images/random for a random image"
+}
