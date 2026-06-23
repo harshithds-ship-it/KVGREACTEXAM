@@ -60,7 +60,50 @@ header p {
     display: block;
 }
 
+/* Fullscreen overlay */
+.fullscreen-overlay {
+    position: fixed;
+    inset: 0;
+    background: #000;
+    z-index: 9999;
+    display: grid;
+    place-items: center;
+}
+
+.fullscreen-image {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.fullscreen-close {
+    position: fixed;
+    top: 16px;
+    right: 16px;
+    z-index: 10000;
+    width: 44px;
+    height: 44px;
+    border-radius: 999px;
+    border: none;
+    cursor: pointer;
+    background: rgba(255, 255, 255, 0.18);
+    color: #fff;
+    font-size: 20px;
+    display: grid;
+    place-items: center;
+    backdrop-filter: blur(6px);
+}
+
+.fullscreen-close:hover {
+    background: rgba(255, 255, 255, 0.28);
+}
+
+body.overlay-active .container {
+    display: none;
+}
+
 .image-info {
+
     padding: 1.5rem;
     background: #f8f9fa;
     border-top: 1px solid #eee;

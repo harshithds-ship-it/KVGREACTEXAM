@@ -7,11 +7,19 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+
+    <div id="fullscreen-overlay" class="fullscreen-overlay" hidden>
+        <img id="fullscreen-image" class="fullscreen-image" src="" alt="Fullscreen random image">
+        <button id="fullscreen-close" class="fullscreen-close" type="button" aria-label="Close fullscreen">✕</button>
+    </div>
+
     <div class="container">
+
         <header>
             <h1>🎲 Random Image Gallery</h1>
             <p>Each visit shows a random image from the API</p>
         </header>
+
 
         <main>
             <div class="image-card">
