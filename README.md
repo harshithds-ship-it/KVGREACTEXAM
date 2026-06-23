@@ -1,89 +1,54 @@
-# 🎲 Random Image Gallery
+# 🎲 KVGCE Random Image Gallery
 
-A **GitHub Pages** static site that displays a random image every time you visit. It includes a built-in JSON API that serves random image data.
+A random fullscreen image gallery for **KVG College of Engineering (KVGCE)**. Every refresh shows a random scenic image with caption, author, and ID overlayed at the bottom.
 
 ## 🚀 Live Demo
 
-Once deployed to GitHub Pages, your site will be available at:
 ```
-https://<your-username>.github.io/random-image-gallery/
+https://harshithds-ship-it.github.io/KVGREACTEXAM/
 ```
 
 ## 📁 Project Structure
 
 ```
-random-image-gallery/
+KVGREACTEXAM/
 ├── index.html          # Main page
 ├── css/
 │   └── style.css       # Styles
 ├── js/
-│   └── script.js       # Fetch & display logic + hash-based API
+│   └── script.js       # Embedded images & display logic
 ├── api/
-│   └── images.json     # Image data "API" (static JSON)
+│   └── images.json     # Image data (static JSON backup)
 └── README.md
 ```
 
-## 🌐 API Endpoints
+## ✨ Features
 
-Since GitHub Pages only serves static files, the "API" is implemented via:
-
-| Endpoint | Description | How to access |
-|---|---|---|
-| `/api/images.json` | Returns **all** image metadata as JSON | `https://<user>.github.io/random-image-gallery/api/images.json` |
-| `/api/images/random` | Returns **one random** image as JSON | `https://<user>.github.io/random-image-gallery/#random` (hash-based) |
-
-### Random Image JSON Response Example
-
-Access `index.html#random` to get:
-```json
-{
-  "id": 23,
-  "url": "https://picsum.photos/id/23/800/600",
-  "author": "Paul Jarvis",
-  "width": 800,
-  "height": 600,
-  "download_url": "https://picsum.photos/id/23/800/600"
-}
-```
+- **Fullscreen random image** on every page load/refresh
+- No server required — works directly from `file://` or any static host
+- Images embedded directly in JavaScript — no fetch/CORS issues
+- Overlay shows **Image ID**, **Caption**, and **Author** at the bottom
+- 30 high-quality landscape images at 1920×1080
 
 ## 🔧 Local Development
 
-You can run the site locally with any static file server:
+Run with any static file server:
 
 ```bash
 # Using Python
-cd random-image-gallery
+cd KVGREACTEXAM
 python -m http.server 8000
 
-# Using Node.js (npx)
-npx serve random-image-gallery
+# Using Node.js
+npx serve KVGREACTEXAM
 ```
 
-Then open `http://localhost:8000` in your browser.
-
-## 📦 Deploy to GitHub Pages
-
-### Option 1: Deploy from `/docs` folder
-
-1. Copy the entire `random-image-gallery` folder into your repository
-2. Rename it to `docs`
-3. Go to **Settings → Pages**
-4. Under "Source", select **Deploy from a branch**
-5. Branch: `main`, folder: `/docs`
-6. Click **Save**
-
-### Option 2: Deploy from root
-
-1. Copy all files inside `random-image-gallery/` to the root of your repository
-2. Go to **Settings → Pages**
-3. Under "Source", select **Deploy from a branch**
-4. Branch: `main`, folder: `/ (root)`
-5. Click **Save**
+Then open **http://localhost:8000** in your browser.
 
 ## 🖼️ Image Source
 
-All images are sourced from [Picsum Photos](https://picsum.photos) — the Lorem Ipsum of photography.
+Images are sourced from [Picsum Photos](https://picsum.photos).
 
 ## 📄 License
 
-MIT
+MIT — KVG College of Engineering
